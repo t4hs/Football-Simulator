@@ -1,0 +1,21 @@
+Liverpool: Anfield - Liverpool
+Brentford: Community Stadium - London
+Fulham: Craven Cottage - London
+Leeds United: Elland Road - Leeds
+Brighton & Hove Albion: Falmer Stadium - Brighton
+Everton: Goodison Park - Liverpool
+Leicester City:  King Power Stadium - Leicester
+West Ham:  London Stadium - London
+Wolverhampton Wanderers: Molineux - Wolverhampton 
+Manchester United: Old Trafford - MAnchester
+Crystal Palace: Selhurst Park - London
+Newcastle United: St James' Park - Newcastle
+Southampton: St Mary’s - Southampton 
+Chelsea: Stamford Bridge - London
+Nottingham Forest: The City Ground - Nottingham
+Arsenal: The Emirates - London
+Manchester City: The Etihad - Manchester
+Tottenham Hotspur: Tottenham Hotspur Stadium - London
+Aston Villa: Villa Park - Birmingham
+AFC Bournemouth: Vitality Stadium - Bournemouth
+
